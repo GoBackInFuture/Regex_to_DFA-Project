@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553267257 source:c:\users\ionut\desktop\facultate an 3 sem 2\tehnici_compilare\tema1\tema1_re_to_dfa\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	<unordered_map>
+	<string>
+	<stack>
+
